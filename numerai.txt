@@ -1,3 +1,5 @@
 https://numer.ai/
 
-Numerai has gathered the best data scientists in the world and let them build machine learning models on the highest quality stock market data.
+A new kind of hedge fund built by a network of data scientists.
+
+Numerai manages an institutional grade long/short global equity strategy for the investors in our hedge fund. We transform and regularize financial data into machine learning problems for our global community of data scientists.
